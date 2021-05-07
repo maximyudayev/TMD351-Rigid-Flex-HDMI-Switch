@@ -20694,9 +20694,9 @@ DRAFT, PRELIMINARY, CHECKED, RELEASED</text>
 <attributes>
 <attribute name="CHECKED_BY" value="Maxim Yudayev"/>
 <attribute name="MADE_BY" value="Maxim Yudayev"/>
-<attribute name="RELEASE_DATE" value="May 6th, 2021"/>
+<attribute name="RELEASE_DATE" value="May 7th, 2021"/>
 <attribute name="REV" value="v1.0"/>
-<attribute name="STATUS" value="Preliminary"/>
+<attribute name="STATUS" value="Released"/>
 </attributes>
 <variantdefs>
 </variantdefs>
@@ -20828,12 +20828,10 @@ DRAFT, PRELIMINARY, CHECKED, RELEASED</text>
 <part name="SUPPLY35" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="IC2" library="v-reg" library_urn="urn:adsk.eagle:library:409" deviceset="LD117A?*" device="DT" package3d_urn="urn:adsk.eagle:package:30369/1" technology="-TR"/>
 <part name="U$3" library="Maxim's KU Leuven" library_urn="urn:adsk.eagle:library:17310764" deviceset="FRAME-TRUCKER-A3-LAND" device=""/>
-<part name="U$4" library="Maxim's KU Leuven" library_urn="urn:adsk.eagle:library:17310764" deviceset="FRAME-TRUCKER-A3-LAND-COVER" device="">
-<attribute name="RELEASE_DATE" value=""/>
-</part>
 <part name="SUPPLY36" library="supply2" library_urn="urn:adsk.eagle:library:372" deviceset="GND" device=""/>
 <part name="P+26" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="VCC" device=""/>
 <part name="C13" library="labHDE_rev3" deviceset="C0402" device="" value="10n"/>
+<part name="U$4" library="Maxim's KU Leuven" library_urn="urn:adsk.eagle:library:17310764" deviceset="FRAME-TRUCKER-A3-LAND-COVER" device=""/>
 </parts>
 <sheets>
 <sheet>
@@ -20852,9 +20850,9 @@ DRAFT, PRELIMINARY, CHECKED, RELEASED</text>
 <attribute name="SHEET_HEADLINE" x="332.74" y="27.94" size="1.778" layer="94"/>
 <attribute name="DRAWING_NAME" x="12.7" y="269.24" size="12.7" layer="94"/>
 <attribute name="ASSEMBLY_VARIANT" x="60.96" y="248.92" size="8.89" layer="94"/>
+<attribute name="RELEASE_DATE" x="406.4" y="269.24" size="12.7" layer="94" rot="MR0"/>
 <attribute name="REV" x="406.4" y="243.84" size="12.7" layer="94" rot="MR0"/>
 <attribute name="STATUS" x="60.96" y="231.14" size="8.89" layer="94"/>
-<attribute name="RELEASE_DATE" x="406.4" y="269.24" size="12.7" layer="94" rot="MR0"/>
 </instance>
 </instances>
 <busses>
